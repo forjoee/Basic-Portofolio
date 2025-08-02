@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+}
+
+html {
+    scroll-behavior: smooth;
+    transition: all .2s ease-in-out;
+}
+
+body {
+    color: #121212;
+    padding: 50px;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+hr {
+    height: 2px;
+    color: #50505042;
+    background-color: #50505042;
+    border: none;
+    margin: 70px auto;
+    width: 70%;
+    border-radius: 100px;
+}
+
+#text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    gap: 10px;
+}
+
+/* -- */
+
+#image-me {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 10px;
+    vertical-align: middle;
+    filter: saturate(0);
+    transition: all .2s ease-in-out;
+}
+
+#image-me:hover {
+    transform: rotate(-5deg);
+    filter: saturate(1);
+    transition: all .2s ease-in-out;
+}
+
+/* -- */
+
+#image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 10px;
+    vertical-align: middle;
+    filter: saturate(0);
+    transition: all .2s ease-in-out;
+}
+
+#image:hover {
+    transform: rotate(-5deg);
+    filter: saturate(1);
+    transition: all .2s ease-in-out;
+}
+
+/* -- */
+
+#image2 {
+    width: 70px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 10px;
+    vertical-align: middle;
+    filter: saturate(0);
+    transition: all .2s ease-in-out;
+}
+
+#image2:hover {
+    transform: rotate(-5deg);
+    filter: saturate(1);
+    transition: all .2s ease-in-out;
+}
+
+/* -- */
+
+.hover-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.hover-wrapper-yt {
+    position: relative;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.hover-wrapper:last-child {
+  margin-right: 0;
+}
+
+.hover-text {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(90deg, #121212bb);
+    color: #fff;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.hover-wrapper:hover .hover-text {
+    opacity: 1;
+}
+
+.highlight {
+    background-color: #c9c9c981;
+    padding: 5px 9px 5px 5px;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+.highlight:hover {
+    background-color: #9d4eddd2;
+    padding: 5px 9px 5px 5px;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+.image-with-label {
+    position: relative;
+}
+
+
+
+
+.social-icon {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 10px;
+  font-size: 40px;
+  color: #9d4edd;
+  transition: transform 0.2s ease-in-out, color 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.social-icon:hover {
+  transform: scale(1.15);
+  color: #c77dff;
+}
+
+/* Centering the icon container */
+#footer {
+  text-align: center;
+  margin-top: 50px;
+}
