@@ -1,4 +1,4 @@
-# 📂 A Really Basic Portofolio
+# 📂 A Really Basic Portfolio
 
-## 👇 Click The Link Bellow To Check It
+## 👇 Click The Link Below To Check It
 [Website](https://forjoee.github.io/Basic-Portofolio/)
