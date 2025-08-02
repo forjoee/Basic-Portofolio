@@ -167,24 +167,25 @@ hr {
 
 
 .social-icon {
-  display: inline-block;
-  margin-top: 20px;
-  margin-right: 10px;
-  border-radius: 10px;
-  font-size: 40px;
-  color: #9d4edd;
-  transition: transform 0.2s ease-in-out, color 0.3s ease-in-out;
-  cursor: pointer;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 40px;
+    color: #9d4edd;
+    transition: transform 0.2s ease-in-out, color 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 .social-icon:hover {
-  transform: scale(1.15);
-  color: #c77dff;
+    transform: scale(1.15);
+    color: #c77dff;
 }
 
 #footer {
-  text-align: center;
-  margin-top: 50px;
+    text-align: center;
+    margin-top: 50px;
 }
+
 
 
