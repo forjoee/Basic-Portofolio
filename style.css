@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: 'InterBold';
-    src: url('./font/Inter_28pt-Bold.ttf') format('truetype');
+    src: url('./fonts/Inter_28pt-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'InterRegular';
-    src: url('./font/Inter_28pt-Regular.ttf') format('truetype');
+    src: url('./fonts/Inter_28pt-Regular.ttf') format('truetype');
 }
 
 html {
