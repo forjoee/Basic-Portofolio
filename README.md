@@ -16,10 +16,6 @@ This is the **Projects** section of my personal portfolio. It features all the w
 
 ![Preview Image](./imgs/preview-portofolio.png)
 
-## 🚧 Known Limitations
-
-- Some project previews are hosted on **Wix**, and their branding may appear. Due to platform restrictions, it is not allowed to hide the Wix banner via code injection.
-
 ## 🙏 Credits
 
 - Fonts by [Inter](https://rsms.me/inter/)
