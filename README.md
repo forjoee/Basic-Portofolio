@@ -4,7 +4,7 @@ This is the **Projects** section of my personal portfolio. It features all the w
 
 ## 👇 Click The Link Below To Check It
 
-🌐 **[Website](https://forjoee.github.io/Portofolio/)**
+🌐 **[Website](https://forjoee.github.io/Portfolio/)**
 
 ## 🧑‍💻 Technologies Used
 
@@ -14,7 +14,7 @@ This is the **Projects** section of my personal portfolio. It features all the w
 
 ## 📸 Preview
 
-![Preview Image](./imgs/preview-portofolio.png)
+![Preview Image](./imgs/preview-portfolio.png)
 
 ## 🙏 Credits
 
