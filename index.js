@@ -7,6 +7,7 @@ window.addEventListener('DOMContentLoaded', () => {
   });
 });
 
+const backButton = document.getElementById("back-button");
 const modal = document.getElementById("preview-modal");
 const iframe = document.getElementById("modal-iframe");
 const closeBtn = document.getElementById("close-modal");

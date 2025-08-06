@@ -231,11 +231,12 @@ hr {
     padding: 10px 20px;
     border-radius: 10px;
     text-decoration: none;
-    z-index: 1000;
-    transition: background-color 0.2s ease-in-out;
+    z-index: 1;
+    transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out, color 0.3s ease-in-out;
 }
 
 #back-button:hover {
+    transform: scale(1.15);
     background-color: #c77dff;
 }
 
