@@ -1,7 +1,5 @@
 # 📂 A Really Basic Portfolio
 
-This is the **Projects** section of my personal portfolio. It features all the websites and web projects I’ve worked on, presented in a sleek, responsive gallery with live preview modals.
-
 ## 👇 Click The Link Below To Check It
 
 🌐 **[Website](https://forjoee.github.io/Portfolio/)**
