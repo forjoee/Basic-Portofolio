@@ -198,7 +198,7 @@ hr {
 
 .social-icon {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-right: 10px;
     border-radius: 10px;
     font-size: 40px;
@@ -256,13 +256,12 @@ hr {
     padding: 0;
 }
 
-/* Modal content */
 #modal-content {
     position: relative;
     width: 90vw;
     max-width: 1400px;
     height: 85vh;
-    background: #1e1e1e;
+    background: #ffffff;
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
@@ -390,4 +389,12 @@ hr {
         flex: 1 1 100%;
         max-width: 100%;
     }
+}
+
+#link {
+    color: #9d4edd;
+}
+
+#link:hover {
+    color: #8141b6;
 }
